@@ -3,6 +3,7 @@ AI ML Exploratory Project using
 * Unstructured/Structured Data Models
 * Deep Learning
 * Recomendations System
-* Hypothesis Testing
-* Classification and Prediction Model
+* Hypothesis Testing Model
+* Classification Model
+* Clustering Model
   
